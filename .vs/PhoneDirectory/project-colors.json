@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "86c28ce1-e805-4426-82f2-df5e4695e531": {
+      "ProjectGuid": "86c28ce1-e805-4426-82f2-df5e4695e531",
+      "DisplayName": "PhoneDirectory",
+      "ColorIndex": 0
+    },
+    "1ce92fb5-3302-44ed-9eed-edf0a46199dd": {
+      "ProjectGuid": "1ce92fb5-3302-44ed-9eed-edf0a46199dd",
+      "DisplayName": "DataAccessLayer",
+      "ColorIndex": 1
+    },
+    "cbe55a0d-0896-4bdd-864a-fd16c83cbc8e": {
+      "ProjectGuid": "cbe55a0d-0896-4bdd-864a-fd16c83cbc8e",
+      "DisplayName": "Model",
+      "ColorIndex": 2
+    },
+    "d1baf44a-1782-4eb6-8385-de0609500b52": {
+      "ProjectGuid": "d1baf44a-1782-4eb6-8385-de0609500b52",
+      "DisplayName": "BusinessLayer",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
